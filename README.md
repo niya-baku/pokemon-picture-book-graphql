@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# ポケモンAPIとGraphQLを使ってアプリを作成
 
 ### 下記URLを見ながら作成
 https://zenn.dev/azuharu07/articles/fae5dec8f93080
